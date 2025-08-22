@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SB2 Turbo – Energia e Foco</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: #002F6C;
+      color: #fff;
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    .btn {
+      display: inline-block;
+      background: #EE4D2D;
+      color: #fff;
+      padding: 1rem 2rem;
+      margin-top: 1rem;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    .btn:hover {
+      background: #cc4024;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 2rem;
+    }
+    .benefits {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+    .benefit {
+      background: #fff;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .benefit h3 {
+      margin-bottom: .5rem;
+    }
+    .image-section {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin: 3rem 0;
+    }
+    .image-section img {
+      max-width: 350px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .testimonial {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 12px;
+      margin: 2rem 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .offer {
+      text-align: center;
+      margin: 3rem 0;
+    }
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 1.5rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- HERO -->
+  <header>
+    <h1>Mais Energia, Foco e Resultados com SB2 Turbo ⚡</h1>
+    <p>Suplemento natural que acelera sua performance no treino e no dia a dia.</p>
+    <a href="https://app.monetizze.com.br/r/AYC25049941" class="btn">Quero o meu agora</a>
+  </header>
+
+  <!-- BENEFÍCIOS -->
+  <section class="container">
+    <h2>Por que escolher o SB2 Turbo?</h2>
+    <div class="benefits">
+      <div class="benefit">
+        <h3>🔥 Mais energia</h3>
+        <p>Suporte para treinar e trabalhar com disposição.</p>
+      </div>
+      <div class="benefit">
+        <h3>💪 Resultados rápidos</h3>
+        <p>Fórmula exclusiva para acelerar seus ganhos.</p>
+      </div>
+      <div class="benefit">
+        <h3>🛡️ 100% natural</h3>
+        <p>Sem efeitos colaterais, mais saúde no dia a dia.</p>
+      </div>
+      <div class="benefit">
+        <h3>🚚 Frete rápido</h3>
+        <p>Entrega em todo o Brasil com rastreamento.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- IMAGEM LIFESTYLE -->
+  <section class="container image-section">
+    <img src="https://link-da-imagem-lifestyle.jpg" alt="SB2 Turbo na cozinha">
+    <div>
+      <h2>O suplemento ideal para sua rotina</h2>
+      <p>Perfeito para acompanhar sua alimentação saudável, seja no café da manhã ou no pós-treino.</p>
+    </div>
+  </section>
+
+  <!-- TESTEMUNHO -->
+  <section class="container testimonial">
+    <p>“Depois que comecei a usar o SB2 Turbo, minha disposição aumentou demais! Recomendo para todos!”</p>
+    <p><strong>- João M.</strong></p>
+  </section>
+
+  <!-- OFERTA -->
+  <section class="offer">
+    <h2>Peça hoje com desconto exclusivo!</h2>
+    <p>Compre com segurança direto do site oficial. Pague em até 12x no cartão.</p>
+    <p><strong>✅ Garantia de 30 dias ou seu dinheiro de volta</strong></p>
+    <a href="https://app.monetizze.com.br/r/AYC25049941" class="btn">Comprar agora com desconto 🔥</a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>SB2 Turbo © 2025 — Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SB2 Turbo – Energia e Foco</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: #002F6C;
+      color: #fff;
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    .btn {
+      display: inline-block;
+      background: #EE4D2D;
+      color: #fff;
+      padding: 1rem 2rem;
+      margin-top: 1rem;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    .btn:hover {
+      background: #cc4024;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 2rem;
+    }
+    .benefits {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+    .benefit {
+      background: #fff;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .benefit h3 {
+      margin-bottom: .5rem;
+    }
+    .image-section {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin: 3rem 0;
+    }
+    .image-section img {
+      max-width: 350px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .testimonial {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 12px;
+      margin: 2rem 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .offer {
+      text-align: center;
+      margin: 3rem 0;
+    }
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 1.5rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- HERO -->
+  <header>
+    <h1>Mais Energia, Foco e Resultados com SB2 Turbo ⚡</h1>
+    <p>Suplemento natural que acelera sua performance no treino e no dia a dia.</p>
+    <a href="https://app.monetizze.com.br/r/AYC25049941" class="btn">Quero o meu agora</a>
+  </header>
+
+  <!-- BENEFÍCIOS -->
+  <section class="container">
+    <h2>Por que escolher o SB2 Turbo?</h2>
+    <div class="benefits">
+      <div class="benefit">
+        <h3>🔥 Mais energia</h3>
+        <p>Suporte para treinar e trabalhar com disposição.</p>
+      </div>
+      <div class="benefit">
+        <h3>💪 Resultados rápidos</h3>
+        <p>Fórmula exclusiva para acelerar seus ganhos.</p>
+      </div>
+      <div class="benefit">
+        <h3>🛡️ 100% natural</h3>
+        <p>Sem efeitos colaterais, mais saúde no dia a dia.</p>
+      </div>
+      <div class="benefit">
+        <h3>🚚 Frete rápido</h3>
+        <p>Entrega em todo o Brasil com rastreamento.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- IMAGEM LIFESTYLE -->
+  <section class="container image-section">
+    <img src="https://link-da-imagem-lifestyle.jpg" alt="SB2 Turbo na cozinha">
+    <div>
+      <h2>O suplemento ideal para sua rotina</h2>
+      <p>Perfeito para acompanhar sua alimentação saudável, seja no café da manhã ou no pós-treino.</p>
+    </div>
+  </section>
+
+  <!-- TESTEMUNHO -->
+  <section class="container testimonial">
+    <p>“Depois que comecei a usar o SB2 Turbo, minha disposição aumentou demais! Recomendo para todos!”</p>
+    <p><strong>- João M.</strong></p>
+  </section>
+
+  <!-- OFERTA -->
+  <section class="offer">
+    <h2>Peça hoje com desconto exclusivo!</h2>
+    <p>Compre com segurança direto do site oficial. Pague em até 12x no cartão.</p>
+    <p><strong>✅ Garantia de 30 dias ou seu dinheiro de volta</strong></p>
+    <a href="https://app.monetizze.com.br/r/AYC25049941" class="btn">Comprar agora com desconto 🔥</a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>SB2 Turbo © 2025 — Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
